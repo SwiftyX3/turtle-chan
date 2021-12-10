@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="?b]I]anbmCZv1N(+Rpq6" x="13" y="48"/><block type="device_button_event" id="Xn_!lf}hSq|~Wf84;w#L" x="245" y="73"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="l*C%g(AMx5^X}p]z*QXo"><value name="text"><shadow type="text" id="bE4kawQYw#kF9%y5Sv2i"><field name="TEXT">Hello world</field></shadow></value></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="?b]I]anbmCZv1N(+Rpq6" x="13" y="48"/><block type="device_button_event" id="Xn_!lf}hSq|~Wf84;w#L" x="245" y="73"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="l*C%g(AMx5^X}p]z*QXo"><value name="text"><shadow type="text" id="bE4kawQYw#kF9%y5Sv2i"><field name="TEXT">do the fortnite</field></shadow></value><next><block type="device_show_leds" id="0+cxa_)02B,qICUP.Ub{"><field name="LEDS">`
+        . # # # . 
+        . # . . . 
+        . # # # . 
+        . # # # . 
+        . # . # .
+        `</field></block></next></block></statement></block></xml>
