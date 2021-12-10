@@ -1,5 +1,5 @@
 input.onButtonPressed(Button.A, function () {
-    basic.showString("do the fortnite")
+    basic.showString("among sus")
     basic.showLeds(`
         . # # # .
         . # . . .
