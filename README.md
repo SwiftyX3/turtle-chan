@@ -1,3 +1,5 @@
+A bunch of dummies making a robot for coding class.
+
 
 > Open this page at [https://swiftyx3.github.io/turtle-chan/](https://swiftyx3.github.io/turtle-chan/)
 
