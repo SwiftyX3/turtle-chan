@@ -1,11 +1,12 @@
 {
-    "name": "know as Turtle-Chan)",
+    "name": "Turtle",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "microturtle": "github:Microsoft/pxt-microturtle#v0.0.9"
+        "microturtle": "github:Microsoft/pxt-microturtle#v0.0.9",
+        "servo": "*"
     },
     "files": [
         "main.blocks",
