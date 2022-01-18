@@ -6,7 +6,8 @@
         "radio": "*",
         "microphone": "*",
         "microturtle": "github:Microsoft/pxt-microturtle#v0.0.9",
-        "servo": "*"
+        "pxt-sonar": "github:Microsoft/pxt-sonar#v0.0.5",
+        "pxt-kitronik-move-motor": "github:kitronikltd/pxt-kitronik-move-motor#v0.3.4"
     },
     "files": [
         "main.blocks",
